@@ -129,5 +129,7 @@ dmypy.json
 .pyre/
 # Adding config.py file.
 config.py
+
+#Adding other files
 API_practice.ipynb
 random_numbers.ipynb
